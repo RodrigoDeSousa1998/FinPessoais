@@ -20,3 +20,6 @@
 - Reorganizar commit history com git rebase e dar tag ao último commit como versão alpha v1.0.
 - Rever comandos git stash (como dar nomes e dar pop a certos stash's).
 - Reorganizar lista "A Implementar" por ordem de prioridade.
+
+### Ideias futuras:
+- Realizar aplicação para Android (utilizar Android SDK) em C++ com ligação a este projeto de Excel.
